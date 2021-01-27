@@ -10,4 +10,5 @@ public class FicticiuscleanApiApplication {
 		SpringApplication.run(FicticiuscleanApiApplication.class, args);
 	}
 
+	
 }
